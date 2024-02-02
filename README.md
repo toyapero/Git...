@@ -1,4 +1,4 @@
-<header>
+[![Build Status](https://dev.azure.com/toyapero/Mydevopstrainingproject/_apis/build/status%2Ftoyapero.First-Pipeline?branchName=main)](https://dev.azure.com/toyapero/Mydevopstrainingproject/_build/latest?definitionId=3&branchName=main)<header>
 
 <!--
   <<< Author notes: Course header >>>
